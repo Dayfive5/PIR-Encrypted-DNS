@@ -9,3 +9,4 @@ https://github.com/spring-epfl/doh_traffic_analysis
 This repository contains the folder :
 - *notebooks*/ -- Jupyter Notebooks of my work
 - *classification*/ -- testings of the classificator (classify_pipeline.py etc)
+- -*papers*/ -- papers used or that I wrote for this project
