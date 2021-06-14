@@ -7,9 +7,9 @@ I manage to reproduce these (my python code is commented on the notebooks) and t
 <br/>
 <br/>
 
-*4thpacket* -- my python code to reproduce the histogram of the 4th TLS record length
-*domain-length* --my python code to reproduce the histogram of the first-party domain length
-*comparison* --my python code to compare the two histograms and compute their entropy
+- *4thpacket* -- my python code to reproduce the histogram of the 4th TLS record length
+- *domain-length* --my python code to reproduce the histogram of the first-party domain length
+- *comparison* --my python code to compare the two histograms and compute their entropy
 <br/>
 <br/>
 All of my work is commented in the notebooks.
